@@ -1,6 +1,6 @@
 Modelo de Árvore de Decisão
 
-Este repositório contém um modelo de árvore de decisão desenvolvido para classificação, utilizando um conjunto de dados pré-processado. O código está implementado em um Jupyter Notebook.
+- Este repositório contém um modelo de árvore de decisão desenvolvido para classificação, utilizando um conjunto de dados pré-processado. O código está implementado em um Jupyter Notebook.
 
 Estrutura do Repositório
 
@@ -16,25 +16,20 @@ Pré-requisitos
 
 Como Executar
 
-Clone este repositório:
+- Clone este repositório:
 
-git clone <https://github.com/mterleski/ModeloArvoreDecisao/edit/main>
-cd <ModeloArvoreDecisao>
-
-Abra o Jupyter Notebook:
-
-jupyter notebook
-Execute o arquivo ModeloArvoreDecisão.ipynb.
+  git clone <https://github.com/mterleski/ModeloArvoreDecisao/edit/main>
+  cd <ModeloArvoreDecisao>
 
 Estrutura dos Dados
 
-Os conjuntos de dados estão organizados no diretório dados/ e já foram divididos entre treino e teste para facilitar a execução do modelo. Certifique-se de que os arquivos estejam no local correto antes de rodar o notebook.
+- Os conjuntos de dados estão organizados no diretório dados/ e já foram divididos entre treino e teste para facilitar a execução do modelo. Certifique-se de que os arquivos estejam no local correto antes de rodar o notebook.
 
 Resultados
 
-Os resultados do modelo, incluindo métricas de desempenho e gráficos de visualização, estão disponíveis no notebook.
+- Os resultados do modelo, incluindo métricas de desempenho e gráficos de visualização, estão disponíveis no notebook.
 
 Contato
 
-Caso tenha dúvidas ou sugestões, sinta-se à vontade para entrar em contato!
+- Caso tenha dúvidas ou sugestões, sinta-se à vontade para entrar em contato!
 
